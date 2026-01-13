@@ -1,16 +1,47 @@
-## Hi there 👋
+# Adel Saker
 
-<!--
-**3delsaker940/3delsaker940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Developer | IT Student at Damascus University
 
-Here are some ideas to get you started:
+I am a passionate Backend Developer currently studying at **Damascus University**. My main focus is on building robust and scalable server-side applications. I'm constantly working on sharpening my skills and I have a keen interest in integrating **AI** into web applications in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack
+
+**Languages & Frameworks:**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Database & Tools:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3delsaker940&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3delsaker940&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔭 What I'm Up To:
+- 🎓 Studying Information Technology at Damascus University.
+- 💻 Building more powerful Backend systems using **Laravel**.
+- 🧠 Exploring the world of **AI** to integrate it into my future projects.
+- 🚀 Always open to collaborating on interesting open-source projects.
+
+---
+
+### 📫 Reach Me:
+- **Email:** [3delsaker940@gmail.com](mailto:3delsaker940@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
