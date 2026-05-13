@@ -25,8 +25,8 @@ I am a passionate Backend Developer currently studying at **Damascus University*
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **PharmaTech** | A backend system for pharmacy and medication organization. | PHP, Laravel |
-| **Shefaa** | A charity healthcare platform connecting providers with users. | Laravel |
+| **PharmaTech** | A backend system for pharmacy and medication organization. | PHP, Laravel, React.js |
+| **Shefaa** | A charity healthcare platform connecting providers with users. | Laravel , Flutter, React.js |
 | **A7gzle** | University project for renting and selling flats. | Laravel, Flutter |
 
 ---
