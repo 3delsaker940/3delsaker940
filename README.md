@@ -17,28 +17,42 @@ I am a passionate Backend Developer currently studying at **Damascus University*
 **Database & Tools:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **PharmaTech** | A backend system for pharmacy and medication organization. | PHP, Laravel |
+| **Shefaa** | A charity healthcare platform connecting providers with users. | Laravel |
+| **Real Estate App** | University project for renting and selling flats. | Laravel, Flutter |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3delsaker940&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3delsaker940&layout=compact&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=3delsaker940&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3delsaker940&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔭 What I'm Up To:
-- 🎓 Studying Information Technology at Damascus University.
-- 💻 Building more powerful Backend systems using **Laravel**.
-- 🧠 Exploring the world of **AI** to integrate it into my future projects.
-- 🚀 Always open to collaborating on interesting open-source projects.
+* 🎓 Studying Information Technology at Damascus University.
+* 💻 Building more powerful Backend systems using **Laravel**.
+* 🧠 Exploring the world of **AI** to integrate it into my future projects.
+* 🚀 Working on **PharmaTech** and **Shefaa** with my team.
+* 🏋️‍♂️ Keeping up with my fitness routine and bodybuilding progress.
 
 ---
 
-### 📫 Reach Me:
-- **Email:** [3delsaker940@gmail.com](mailto:3delsaker940@gmail.com)
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adel-saker-5a5b2340a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:3delsaker940@gmail.com)
 
 ---
 
